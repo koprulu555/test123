@@ -1,0 +1,14 @@
+{
+  "channels": [
+    {
+      "id": "12037",
+      "name": "Çankırı TV",
+      "slug": "cankiritv"
+    },
+    {
+      "id": "1001",
+      "name": "Örnek Kanal",
+      "slug": "ornek-kanal"
+    }
+  ]
+}
